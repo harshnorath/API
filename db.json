@@ -1,4 +1,5 @@
-[[
+{
+  "products:[
   {
     "id": 1,
     "title": "Wireless Headphones",
@@ -641,4 +642,4 @@
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNW7_dA4GR-IbwyRED0ExsLD93uSt2uvmgfw&s"
   }
 ]
-]
+}
